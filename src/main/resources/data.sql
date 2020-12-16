@@ -7,4 +7,4 @@ INSERT INTO Essentielle(name, quantite, prix) VALUES ('Encens', 5, 9.41);
 
 COMMIT;
 
-/* tester sur=> http://localhost:8080/browser/index.html#/*/
+/* testez=> http://localhost:8080/browser/index.html#/*/
