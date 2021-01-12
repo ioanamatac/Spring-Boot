@@ -9,7 +9,7 @@
 
 ## General Info
 
-Maven Project [Spring Initializr](https://www.start.spring.io)
+Maven Project [Spring Initializr](https://start.spring.io/)
 
 
 ## Technologies
